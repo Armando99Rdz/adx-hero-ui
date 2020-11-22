@@ -2,3 +2,6 @@
 UI / UX Hero Section
 
 ![](./capture.png)
+
+
+#### MIT License
